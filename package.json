@@ -1,0 +1,18 @@
+{
+  "name": "node-todo-test-1",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "inquirer": "^7.3.3",
+    "node-todo-1": "^0.0.3",
+    "node-todo-test-1": "0.0.3"
+  }
+}
